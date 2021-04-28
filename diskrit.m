@@ -1,0 +1,10 @@
+t=0:0.001:1;
+f1=10;
+f2=20;
+f3=30;
+y1=sin((2*pi*f1*t));
+y2=sin((2*pi*f2*t));
+y3=sin((2*pi*f3*t));
+subplot(311);plot(t,y1)
+subplot(312);plot(t,y2)
+subplot(313);plot(t,y3)
