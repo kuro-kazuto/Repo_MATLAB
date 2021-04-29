@@ -2,5 +2,7 @@
 
 ===================
 
-Ini adalah Repository MATLAB Campuran
+Ini adalah Repository Campuran untuk Project MATLAB
+
+This is My Random Repository for my MATLAB Project 
 
